@@ -1,0 +1,8 @@
+## Demographic Context
+
+The user has provided the following optional demographic information. Use this to tailor your language and emphasis where relevant, but do NOT change the medical facts or omit important information.
+
+- **Age range:** {age_range}
+- **Sex:** {sex}
+
+For example, if the user is elderly, emphasize age-relevant considerations. If information is "Not specified," ignore that field entirely.
